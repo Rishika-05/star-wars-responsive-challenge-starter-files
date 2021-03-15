@@ -1,0 +1,23 @@
+main .row
+{
+	margin-bottom: 20px;
+}
+.box
+{
+	height: 450px;
+	margin-bottom: 30px;
+}
+.nav-bar
+{
+	background: orange;
+	position:fixed;
+	padding-left: 100px;
+}
+img
+{
+	height:300px;
+}
+h2,h5
+{
+	display: block;
+}
